@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Levind</string>
+    <string name="Button1">Open Website</string>
+    <string name="Button2">Open Contact</string>
+    <string name="edittext_uri">https://</string>
+    <string name="textview">Fahni Amsyari\n1167050058</string>
+</resources>
